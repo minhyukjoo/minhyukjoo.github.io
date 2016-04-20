@@ -25,7 +25,7 @@ alertButton.addEventListener('click', function(){
 	if (textInput.value === "testuser" && passInput.value === "testpass")
 	{
 		alert("You have successfully logged in, " + textInput.value + "!");
-		location.href = siteHost + 'index.html';
+		location.href = siteHost + 'welcome.html';
 	}
 	else if(textInput.value === "testuser" && passInput.value !== "testpass")
 	{
