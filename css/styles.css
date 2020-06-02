@@ -93,9 +93,9 @@ h4{
   text-align: left;
   color: gainsboro;
   padding-bottom: 1em;
-  padding-left:1.5em;
-  padding-right:1.5em;
-  max-width: 75.9em;
+  padding-left:1em;
+  padding-right:1em;
+  max-width: 76.9em;
   margin-left:auto;
   margin-right:auto;
 }
@@ -116,8 +116,7 @@ p{
   text-align: left;
   color: #000000;
   padding-bottom: 1em;
-  padding-left:0.5em;
-  padding-right:0.5em;
+
 }
 
 h5{
@@ -127,8 +126,7 @@ h5{
   color: #000000;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
-  padding-left:0.5em;
-  padding-right:0.5em;
+
 }
 
 #main{
