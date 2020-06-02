@@ -54,7 +54,6 @@ body{
   -o-background-size: cover;
   background-size: cover;
   padding-bottom: 20em;
-  max-width: 100em;
   margin: 0 auto !important; 
 }
 
@@ -63,7 +62,7 @@ h1{
   font-family: 'Nanum Myeongjo', sans-serif;
   font-style: bold;
   text-align: center;
-  color: #B0B0B0;
+  color: gainsboro;
   padding-top: 0.5em;
   padding-bottom: 0.3em;
 }
@@ -72,7 +71,7 @@ h3{
   font-size: 1.2em;
   font-family: 'Dosis', sans-serif;
   text-align: center;
-  color: #B0B0B0;
+  color: #000000;
   padding-left: 2em;
   padding-right: 2em;
   padding-bottom: 0.4em;
@@ -82,7 +81,7 @@ h2{
   font-size: 1.3em;
   font-family: 'Nanum Myeongjo', sans-serif;
   text-align: center;
-  color: #B0B0B0;
+  color: #000000;
   padding-bottom: 0.8em;
   padding-left: 2em;
   padding-right: 2em;
@@ -92,7 +91,7 @@ h4{
   font-size: 1.7em;
   font-family: 'Dosis', sans-serif;
   text-align: center;
-  color: #B0B0B0;
+  color: gainsboro;
   padding-left:1em;
   padding-right:1em;
   padding-bottom: 0.4em;
@@ -102,7 +101,7 @@ p{
   font-size: 1.3em;
   font-family: 'Nanum Myeongjo', sans-serif;
   text-align: left;
-  color: #B0B0B0;
+  color: #000000;
   padding-bottom: 1em;
   padding-left:1em;
   padding-right:1em;
@@ -112,7 +111,7 @@ h5{
   font-size: 1.3em;
   font-family: 'Nanum Myeongjo', sans-serif;
   text-align: left;
-  color: #B0B0B0;
+  color: #000000;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
   padding-left:1em;
@@ -139,4 +138,19 @@ h5{
     -webkit-justify-content: space-around;
         -ms-flex-pack: distribute;
             justify-content: space-around;
+}
+
+#content
+{
+  background-color:gainsboro;
+  padding-top:3em;
+  padding-bottom:3em;
+  padding-left:1em;
+  padding-right:1em;
+
+  max-width: 100em;
+
+  position:static;
+  margin-left:auto;
+  margin-right:auto;
 }
