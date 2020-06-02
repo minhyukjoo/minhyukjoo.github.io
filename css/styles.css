@@ -108,6 +108,17 @@ p{
   padding-right:1em;
 }
 
+h5{
+  font-size: 1.5em;
+  font-family: 'Dosis', sans-serif;
+  text-align: left;
+  color: #B0B0B0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left:1em;
+  padding-right:1em;
+}
+
 #main{
    max-width: 40em;
    display: block; 
