@@ -79,7 +79,7 @@ h3{
 }
 
 h2{
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-family: 'Nanum Myeongjo', sans-serif;
   text-align: center;
   color: #B0B0B0;
@@ -99,7 +99,7 @@ h4{
 }
 
 p{
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-family: 'Nanum Myeongjo', sans-serif;
   text-align: left;
   color: #B0B0B0;
@@ -109,7 +109,7 @@ p{
 }
 
 h5{
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-family: 'Nanum Myeongjo', sans-serif;
   text-align: left;
   color: #B0B0B0;
@@ -121,7 +121,7 @@ h5{
 
 #main{
    max-width: 40em;
-   display: block; 
+   display: block;
    padding-top: 1em;
    margin-left: auto;
   margin-right: auto;
