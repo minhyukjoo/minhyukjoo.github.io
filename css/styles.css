@@ -116,7 +116,8 @@ p{
   text-align: left;
   color: #000000;
   padding-bottom: 1em;
-
+  letter-spacing: 0.9px;
+  line-height: 1.2em;
 }
 
 h5{
