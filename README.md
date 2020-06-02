@@ -1,2 +1,2 @@
 # minhyukjoo.github.io
-live link
+live link updated
