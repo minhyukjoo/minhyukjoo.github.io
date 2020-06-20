@@ -168,3 +168,67 @@ h5{
   margin-left:auto;
   margin-right:auto;
 }
+
+#link
+{
+  text-decoration: none;
+  margin-left: 0;
+  margin-right: 0;
+  align-content: center;
+  text-align: center;
+  color: #000000;
+  font-size: 1.1em;
+  font-family: 'Dosis', sans-serif;
+  padding-bottom: 2em;
+  display: block;
+}
+
+.kr_p
+{
+  font-size: 1.3em;
+  font-family: 'Dosis', sans-serif;
+  text-align: left;
+  color: #000000;
+  padding-bottom: 1em;
+  letter-spacing: 0.4px;
+  line-height: 1.4em;
+}
+
+.kr_h5
+{
+  font-size: 1.3em;
+  font-family: 'Dosis', sans-serif;
+  text-align: left;
+  color: #000000;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+.kr_h2
+{
+  font-size: 1.3em;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+  color: #000000;
+  padding-bottom: 0.8em;
+  padding-left: 1em;
+  padding-right: 1em;
+  letter-spacing: 0.2px;
+  line-height: 1.2em;
+}
+
+.kr_h4
+{
+  font-size: 1.3em;
+  font-family: 'Dosis', sans-serif;
+  text-align: left;
+  color: gainsboro;
+  padding-bottom: 1em;
+  padding-left:1em;
+  padding-right:1em;
+  max-width: 76.9em;
+  margin-left:auto;
+  margin-right:auto;
+  letter-spacing: 0.4px;
+  line-height: 1.4em;
+}
