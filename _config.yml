@@ -14,12 +14,14 @@ footer: Your Test
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: instagram
-    url: https://www.instagram.com/matt.joo/
   - title: linkedin
     url: https://www.linkedin.com/in/mattjoo/
   - title: github
     url: https://github.com/minhyukjoo
+  - title: instagram
+    url: https://www.instagram.com/matt.joo/
+  - title: photos
+    url: https://www.instagram.com/mattjoo.jpg/
 
 # Build settings
 markdown: kramdown
