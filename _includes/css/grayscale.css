@@ -156,9 +156,7 @@ a:focus {
 }
 
 .intro .intro-body .intro-text {
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    text-transform: uppercase;
-    font-size: 50px;
+    font-size: 18px;
 }
 
 @media(min-width:767px) {
@@ -168,7 +166,8 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 50px;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 80px;
         text-transform: lowercase;
     }
 
