@@ -157,9 +157,6 @@ a:focus {
 
 .intro .intro-body .intro-text {
     font-size: 18px;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 125px;
-    text-transform: lowercase;
 }
 
 @media(min-width:767px) {
@@ -173,7 +170,8 @@ a:focus {
     }
 
     .intro .intro-body .intro-text {
-        font-size: 125px;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 70px;
     }
 }
 
