@@ -1,13 +1,6 @@
-Grayscale Jekyll theme
-=========================
+# Matt Minhyuk Joo
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+## A personal website showcasing various different aspects of my interests
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
+## forked from Jekyll theme Grayscale and added my own touch!
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
-
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
