@@ -48,12 +48,14 @@ p {
 }
 
 #vidtitle {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
     padding-bottom: 0em; 
 }
 
 #vidtext {
     padding-top: 0em; 
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .iframe-container{
