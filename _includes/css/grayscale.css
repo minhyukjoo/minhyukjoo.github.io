@@ -47,9 +47,13 @@ p {
     text-align: center;
 }
 
+#vidtitle {
+    padding-bottom: 0em; 
+}
+
 #vidtext {
     padding-top: 0em; 
-    font-size: 17px;
+    font-size: 15px;
 }
 
 .iframe-container{
