@@ -62,7 +62,7 @@ p {
 }
 
 
-@media(min-width:992px) {
+@media(min-width:990px) {
     p {
         margin: 0 0 35px;
         font-size: 20px;
@@ -144,7 +144,7 @@ a:focus {
     background-color: rgba(255,255,255,.3);
 }
 
-@media(min-width:992px) {
+@media(min-width:990px) {
     .navbar {
         padding: 20px 0;
         border-bottom: 0;
@@ -193,7 +193,7 @@ a:focus {
     font-size: 18px;
 }
 
-@media(min-width:992px) {
+@media(min-width:990px) {
     .intro {
         height: 100%;
         padding: 0;
@@ -306,7 +306,7 @@ a:focus {
     margin-top: 100px;
 }
 
-@media(min-width:992px) {
+@media(min-width:990px) {
     .content-section {
         padding-top: 200px;
     }
@@ -358,7 +358,7 @@ ul.banner-social-buttons li {
     }
 }
 
-@media(max-width:992px) {
+@media(max-width:990px) {
     ul.banner-social-buttons li {
         display: block;
         margin-bottom: 20px;
