@@ -22,7 +22,8 @@ social:
     url: https://www.instagram.com/mattjoo.jpg/
   - title: youtube
     url: https://www.youtube.com/channel/UCNWrMv4BIN1N9uVm-VIUlxA
-    
+  - title: bible
+    url: https://my.bible.com/users/MattJoo
 
 # Build settings
 markdown: kramdown
