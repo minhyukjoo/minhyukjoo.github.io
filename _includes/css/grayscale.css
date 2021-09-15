@@ -62,7 +62,7 @@ p {
 }
 
 
-@media(min-width:767px) {
+@media(min-width:992px) {
     p {
         margin: 0 0 35px;
         font-size: 20px;
@@ -306,7 +306,7 @@ a:focus {
     margin-top: 100px;
 }
 
-@media(min-width:767px) {
+@media(min-width:992px) {
     .content-section {
         padding-top: 200px;
     }
@@ -358,7 +358,7 @@ ul.banner-social-buttons li {
     }
 }
 
-@media(max-width:767px) {
+@media(max-width:992px) {
     ul.banner-social-buttons li {
         display: block;
         margin-bottom: 20px;
