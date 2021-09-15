@@ -43,6 +43,10 @@ p {
     text-align: left;
 }
 
+#maintitle {
+    text-align: center;
+}
+
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;
@@ -52,6 +56,10 @@ p {
     }
     #maintext {
         text-align: left;
+    }
+    
+    #maintitle {
+        text-align: center;
     }
 }
 
