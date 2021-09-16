@@ -76,9 +76,6 @@ p {
   width: 80%;
   height: auto;
   border-radius: 8px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 @media(min-width:990px) {
