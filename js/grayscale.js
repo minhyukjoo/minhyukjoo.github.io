@@ -4,6 +4,16 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+// mine
+document.getElementById('reader').addEventListener("click", function() {
+    document.querySelector('.bg-modal').style.display = "flex";
+});
+
+document.querySelector('.close').addEventListener("click", function() {
+    document.querySelector('.bg-modal').style.display = "none";
+});
+
+
 // jQuery to collapse the navbar on scroll
 $(window).scroll(function() {
     if ($(".navbar").offset().top > 50) {
