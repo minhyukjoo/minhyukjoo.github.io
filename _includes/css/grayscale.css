@@ -203,7 +203,8 @@ a:focus {
 
 .intro .intro-body .brand-heading {
     font-size: 40px;
-    opacity: 5%;
+    color: black;
+    opacity: 10%;
 }
 
 .intro .intro-body .intro-text {
@@ -235,7 +236,7 @@ a:focus {
     border: 2px solid #fff;
     border-radius: 35px;
     font-size: 40px;
-    color: #fff;
+    color: #000;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
