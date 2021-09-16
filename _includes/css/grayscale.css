@@ -311,6 +311,17 @@ a:focus {
     -o-background-size: cover;
 }
 
+.phil-section{
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    background-color: {{ site.color.primary-dark }};
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 .tech-section {
     width: 100%;
     padding: 50px 0;
