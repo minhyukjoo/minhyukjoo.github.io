@@ -210,7 +210,7 @@ a:focus {
 .intro .intro-body .intro-text {
     font-size: 18px;
     opacity: 0%;
-    padding-bottom: 400px;
+    padding-bottom: 250px;
 }
 
 @media(min-width:990px) {
@@ -230,7 +230,7 @@ a:focus {
 }
 
 #arrow {
-    opacity: 0.5;
+    opacity: 0.75;
 }
 
 .btn-circle {
