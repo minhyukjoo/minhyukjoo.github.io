@@ -209,7 +209,7 @@ a:focus {
 
 .intro .intro-body .intro-text {
     font-size: 18px;
-    opacity: 5%;
+    opacity: 0%;
 }
 
 @media(min-width:990px) {
