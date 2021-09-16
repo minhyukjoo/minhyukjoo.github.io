@@ -2,4 +2,4 @@
 
 - A personal website showcasing various different aspects of my interests
 
-- Forked from Jekyll theme Grayscale and added my own touch
+- Forked from Jekyll Grayscale and added my own touch
