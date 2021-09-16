@@ -236,7 +236,8 @@ a:focus {
     border: 2px solid #fff;
     border-radius: 35px;
     font-size: 40px;
-    color: #000;
+    opactiy: 50%;
+    color: #fff;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -246,7 +247,7 @@ a:focus {
 .btn-circle:hover,
 .btn-circle:focus {
     outline: 0;
-    color: #000;
+    color: #fff;
     background: rgba(255,255,255,.1);
 }
 
