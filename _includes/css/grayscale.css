@@ -203,10 +203,12 @@ a:focus {
 
 .intro .intro-body .brand-heading {
     font-size: 40px;
+    opacity: 0;
 }
 
 .intro .intro-body .intro-text {
     font-size: 18px;
+    opacity: 0;
 }
 
 @media(min-width:990px) {
