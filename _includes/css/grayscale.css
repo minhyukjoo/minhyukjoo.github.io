@@ -50,6 +50,7 @@ p {
 #vidtitle {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 20px;
+    display: inline-block;
     margin-top: 15px; 
     margin-bottom: 15px; 
 }
