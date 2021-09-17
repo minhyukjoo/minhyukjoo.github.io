@@ -133,14 +133,16 @@ p {
     font-weight: 500;
     position: relative;
     top: 0;
-    animation: slide 6s steps(3) infinite;
+    /* animation: slide 6s steps(3) infinite; */
 }
 
+/*
 @keyframes slide {
     100%{
         top: -200px;
     }
 }
+*/
 
 .dynamic-txt li span {
     position: relative;    
