@@ -97,12 +97,14 @@ p {
 
 /*-----------------animation------------------*/
 
-.wrapper {
+.textani {
     justify-content: center;
     align-items: center;
     text-align: center;
     display: flex;
- 
+}
+
+.wrapper {
     display: inline-flex;
 }
 
