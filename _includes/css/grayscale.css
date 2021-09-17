@@ -192,6 +192,13 @@ p {
 
 /*--con--*/
 
+.wrapper .static-txtc {
+    color: #fff;
+    font-size: 60px;
+    font-weight: 400;
+    padding-right: 6px;
+}
+
 .wrapper .dynamic-txtc {
     padding: 0;
     height: 84px;
