@@ -153,7 +153,7 @@ p {
     width: 100%;
     border-left: 2px solid #fff;
     background: black;
-    animation: typing 4s steps(8) infinite;
+    animation: typing 3s steps(8) infinite;
 }
 
 /*--aboue--*/
@@ -221,7 +221,7 @@ p {
     width: 100%;
     border-left: 2px solid #fff;
     background: black;
-    animation: typing 3s steps(4) infinite;
+    animation: typing 2s steps(4) infinite;
 }
 
 @keyframes typing {
