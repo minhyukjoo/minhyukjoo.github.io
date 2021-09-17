@@ -105,15 +105,15 @@ p {
 }
 
 .wrapper .static-txt {
-    font-size: 60px;
     color: #fff;
+    font-size: 60px;
     font-weight: 400;
 }
 
 .wrapper .dynamic-txt {
     margin-left: 15px;
     height: 90px;
-    line-height: 90px;
+    line-height: 85px;
     overflow: hidden;
 }
 
@@ -124,7 +124,7 @@ p {
     font-weight: 500;
     position: relative;
     top: 0;
-    animation: slide 5s steps(3) infinite;
+    animation: slide 6s steps(3) infinite;
 }
 
 @keyframes slide {
