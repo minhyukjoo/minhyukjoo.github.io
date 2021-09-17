@@ -262,20 +262,15 @@ p {
 
 @keyframes textn {
     0% {
-        font-size: 40px;
         margin-bottom: 40px;
     }
     
     30% {
-        font-size: 60px;
         letter-spacing: 10px;
-        margin-bottom: -40px;
     }
     
     85% {
-        font-size: 40px;
         letter-spacing: 5px;
-        margin-bottom: -40px;
     }
 }
 
