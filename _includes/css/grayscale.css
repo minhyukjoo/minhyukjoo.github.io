@@ -153,8 +153,7 @@ p {
     left: calc(100% + 30px);
   }
   100%{
-    left: 100%;
-    margin: 0 -35px 0 35px;
+    left: 0;
   }
 }
 
