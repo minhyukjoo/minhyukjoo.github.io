@@ -113,7 +113,7 @@ p {
 .wrapper .dynamic-txt {
     margin-left: 15px;
     height: 90px;
-    line-height: 85px;
+    line-height: 100px;
     overflow: hidden;
 }
 
