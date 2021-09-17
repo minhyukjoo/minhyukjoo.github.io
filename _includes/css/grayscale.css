@@ -112,13 +112,13 @@ p {
     color: #fff;
     font-size: 60px;
     font-weight: 400;
-    padding-right: 3px;
+    padding-right: 10px;
 }
 
 .wrapper .dynamic-txt {
     padding: 0;
-    height: 50px;
-    line-height: 50px;
+    height: 90px;
+    line-height: 90px;
     background: red;
     overflow: hidden;
 }
