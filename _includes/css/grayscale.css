@@ -119,8 +119,8 @@ p {
 
 .wrapper .dynamic-txt {
     padding: 0;
-    height: 64px;
-    line-height: 75px;
+    height: 75px;
+    line-height: 40px;
     background: red;
     overflow: hidden;
 }
