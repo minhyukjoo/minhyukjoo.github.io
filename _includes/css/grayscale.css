@@ -192,6 +192,15 @@ p {
 
 /*--con--*/
 
+.textani {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    padding-top: 70px;
+    padding-bottom: 10px;
+}
+
 .wrapper .static-txtc {
     color: #fff;
     font-size: 60px;
