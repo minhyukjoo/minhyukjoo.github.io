@@ -226,7 +226,16 @@ p {
     animation: typing 4s steps(5) infinite;
 }
 
-/*---no ani---*/
+@keyframes typing {
+  40%, 60%{
+    left: calc(100% + 5px);
+  }
+  100%{
+    left: 0;
+  }
+}
+
+/*---no ani-
 
 .wrapper .dynamic-txtn {
     padding: 0;
@@ -259,14 +268,7 @@ p {
     opacity: 0;
 }
 
-@keyframes typing {
-  40%, 60%{
-    left: calc(100% + 5px);
-  }
-  100%{
-    left: 0;
-  }
-}
+--*/
 
 /*-----------------animation------------------*/
 
