@@ -257,6 +257,24 @@ p {
     font-weight: 500;
     position: relative;
     top: 0;
+    animation: textn 3s 1;
+}
+
+@keyframes textn {
+    0% {
+        opacity: 0;
+        margin-bottom: 40px;
+    }
+    
+    30% {
+        letter-spacing: 25px;
+        margin-bottom: -40px;
+    }
+    
+    85% {
+        letter-spacing: 8px;
+        margin-bottom: -40px;
+    }
 }
 
 .dynamic-txtn li span {
