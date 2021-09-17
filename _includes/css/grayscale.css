@@ -160,7 +160,7 @@ p {
 
 @keyframes typing {
   40%, 60%{
-    left: calc(100% + 6px);
+    left: calc(100% + 5px);
   }
   100%{
     left: 0;
@@ -203,7 +203,7 @@ p {
 
 @keyframes typing {
   40%, 60%{
-    left: calc(100% + 6px);
+    left: calc(100% + 5px);
   }
   100%{
     left: 0;
