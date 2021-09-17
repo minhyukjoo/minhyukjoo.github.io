@@ -120,7 +120,7 @@ p {
 .wrapper .dynamic-txt {
     padding: 0;
     height: 75px;
-    line-height: 40px;
+    line-height: 75px;
     background: red;
     overflow: hidden;
 }
@@ -137,7 +137,7 @@ p {
 
 @keyframes slide {
     100%{
-        top: -360px;
+        top: -200px;
     }
 }
 
