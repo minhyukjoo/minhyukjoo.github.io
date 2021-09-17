@@ -198,7 +198,7 @@ p {
     text-align: center;
     display: flex;
     padding-top: 70px;
-    padding-bottom: 10px;
+    padding-bottom: 1px;
 }
 
 .wrapper .static-txtc {
