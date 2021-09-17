@@ -101,7 +101,7 @@ p {
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: 'Roboto Mono', monospace;
+
     display: inline-flex;
 }
 
@@ -114,7 +114,7 @@ p {
 .wrapper .dynamic-txt {
     margin-left: 15px;
     height: 90px;
-    line-height: 105px;
+    line-height: 95px;
     overflow: hidden;
 }
 
