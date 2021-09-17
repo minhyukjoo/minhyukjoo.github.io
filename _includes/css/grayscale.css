@@ -154,7 +154,7 @@ p {
     width: 100%;
     border-left: 2px solid #fff;
     background: black;
-    animation: typing 6s steps(8) infinite;
+    animation: typing 4s steps(8) infinite;
 }
 
 /*--aboue--*/
@@ -222,7 +222,7 @@ p {
     width: 100%;
     border-left: 2px solid #fff;
     background: black;
-    animation: typing 4s steps(5) infinite;
+    animation: typing 3s steps(5) infinite;
 }
 
 @keyframes typing {
@@ -256,7 +256,7 @@ p {
 .dynamic-txtn li span {
     position: relative;    
 }
-
+/*
 .dynamic-txtn li span::after {
     content: "";
     position: absolute;
@@ -266,6 +266,7 @@ p {
     border-left: 2px solid #fff;
     opcatiy:0;
 }
+*/
 /*-----------------animation------------------*/
 
 .conntext {
