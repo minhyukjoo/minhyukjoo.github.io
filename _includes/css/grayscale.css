@@ -89,6 +89,10 @@ p {
   border-radius: 16px;
 }
 
+.conntext {
+    text-align: left;
+}
+
 @media(min-width:990px) {
     p {
         margin: 0 0 35px;
