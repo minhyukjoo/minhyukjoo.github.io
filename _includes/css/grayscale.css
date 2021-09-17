@@ -114,6 +114,7 @@ p {
     color: #fff;
     font-size: 60px;
     font-weight: 400;
+    background: red;
     /* padding-right: 15px; */
 }
 
