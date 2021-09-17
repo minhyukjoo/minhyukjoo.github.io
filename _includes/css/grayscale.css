@@ -257,7 +257,7 @@ p {
     font-weight: 500;
     position: relative;
     top: 0;
-    animation: textn 3s 1 infinite;
+    animation: textn 3s infinite;
 }
 
 @keyframes textn {
