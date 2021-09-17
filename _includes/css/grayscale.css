@@ -55,6 +55,15 @@ p {
     margin-bottom: 2px; 
 }
 
+#sectiontitle {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 25px;
+    display: inline-block;
+    margin-top: 15px; 
+    margin-bottom: 2px; 
+    text-transform: uppercase;
+}
+
 #vidtext {
     padding-top: 0em; 
     font-size: 16px;
