@@ -101,7 +101,7 @@ p {
     justify-content: center;
     align-items: center;
     text-align: center;
-
+    font-family: 'Roboto Mono', monospace;
     display: inline-flex;
 }
 
