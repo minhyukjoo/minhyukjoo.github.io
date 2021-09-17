@@ -222,7 +222,7 @@ p {
     width: 100%;
     border-left: 2px solid #fff;
     background: black;
-    animation: typing 3s steps(5) infinite;
+    animation: typing 3s steps(4) infinite;
 }
 
 @keyframes typing {
