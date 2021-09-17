@@ -101,7 +101,8 @@ p {
     justify-content: center;
     align-items: center;
     text-align: center;
-
+    display: flex;
+    min-height: 100vh;
     display: inline-flex;
 }
 
