@@ -116,7 +116,7 @@ p {
     margin-left: 2px;
     height: 90px;
     line-height: 90px;
-    background: #red;
+    background: red;
     overflow: hidden;
 }
 
