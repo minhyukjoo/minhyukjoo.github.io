@@ -166,6 +166,48 @@ p {
   }
 }
 
+/*--aboue--*/
+
+.wrapper .dynamic-txta {
+    padding: 0;
+    height: 84px;
+    line-height: 84px;
+    overflow: hidden;
+}
+
+.dynamic-txta li{
+    color: #fff;
+    list-style: none;
+    font-size: 60px;
+    font-weight: 500;
+    position: relative;
+    top: 0;
+}
+
+.dynamic-txta li span {
+    position: relative;    
+}
+
+.dynamic-txta li span::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border-left: 2px solid #fff;
+    background: black;
+    animation: typing 2s steps(3) infinite;
+}
+
+@keyframes typing {
+  40%, 60%{
+    left: calc(100% + 30px);
+  }
+  100%{
+    left: 0;
+  }
+}
+
 /*-----------------animation------------------*/
 
 
