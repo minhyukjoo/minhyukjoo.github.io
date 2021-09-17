@@ -158,15 +158,6 @@ p {
     animation: typing 5s steps(8) infinite;
 }
 
-@keyframes typing {
-  40%, 60%{
-    left: calc(100% + 5px);
-  }
-  100%{
-    left: 0;
-  }
-}
-
 /*--aboue--*/
 
 .wrapper .dynamic-txta {
@@ -199,15 +190,6 @@ p {
     border-left: 2px solid #fff;
     background: black;
     animation: typing 2s steps(3) infinite;
-}
-
-@keyframes typing {
-  40%, 60%{
-    left: calc(100% + 5px);
-  }
-  100%{
-    left: 0;
-  }
 }
 
 /*--con--*/
@@ -244,15 +226,6 @@ p {
     animation: typing 3s steps(5) infinite;
 }
 
-@keyframes typing {
-  40%, 60%{
-    left: calc(100% + 5px);
-  }
-  100%{
-    left: 0;
-  }
-}
-
 /*---no ani---*/
 
 .wrapper .dynamic-txtn {
@@ -285,6 +258,15 @@ p {
     border-left: 2px solid #fff;
     background: black;
     animation: typing 2s steps(5) infinite;
+}
+
+@keyframes typing {
+  40%, 60%{
+    left: calc(100% + 5px);
+  }
+  100%{
+    left: 0;
+  }
 }
 /*-----------------animation------------------*/
 
