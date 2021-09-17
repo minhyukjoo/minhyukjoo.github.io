@@ -69,6 +69,11 @@ p {
     font-size: 16px;
 }
 
+#copyr {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .iframe-container{
   position: relative;
   width: 100%;
