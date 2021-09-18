@@ -416,6 +416,49 @@ p {
 .dynamic-txtn li span {
     position: relative;    
 }
+
+/*---L part---*/
+
+.wrapper .dynamic-txtl {
+    padding: 0;
+    height: 84px;
+    line-height: 84px;
+    overflow: hidden;
+}
+
+.dynamic-txtl li{
+    font-family: 'Source Code Pro', monospace;
+    color: #fff;
+    list-style: none;
+    font-size: 60px;
+    font-weight: 500;
+    position: relative;
+    top: 0;
+    animation: textn 4s ease-in-out infinite alternate 0.3s;
+}
+
+@keyframes textn {
+  0% {
+    opacity: 1;
+  }
+  20% {
+    opacity: 1;
+  }
+  40% {
+    opacity: 0;
+  }
+  60% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.dynamic-txtl li span {
+    position: relative;    
+}
+
 /*
 .dynamic-txtn li span::after {
     content: "";
