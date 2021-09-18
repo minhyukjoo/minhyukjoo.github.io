@@ -684,6 +684,10 @@ a:focus {
     padding-bottom: 0px;
 }
 
+#krchar2 {
+    padding-bottom: 9px;
+}
+
 #byebye {
     /* font-family: 'Source Code Pro', monospace; */
     font-family: 'Gugi', cursive;
