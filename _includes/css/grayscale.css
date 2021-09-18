@@ -152,6 +152,7 @@ p {
   100% {
     opacity: 1;
   }
+}
 /* support for safari and chrome */
 @-webkit-keyframes fade-inout{
   0% {
