@@ -426,7 +426,7 @@ p {
     overflow: hidden;
 }
 
-.dynamic-txtl li{
+.dynamic-txtl {
     font-family: 'Source Code Pro', monospace;
     color: #fff;
     list-style: none;
@@ -469,7 +469,7 @@ p {
   }
 }
 
-.dynamic-txtl li span {
+.dynamic-txtl span {
     position: relative;    
 }
 
