@@ -444,22 +444,22 @@ p {
     padding-right: 0px;
 }
 #le0 {
-    animation: textlr 4s ease-in-out infinite alternate 0.2s;
+    animation: textlr 4s ease-in-out infinite normal 0.2s;
 }
 #le1 {
-    animation: textl 4s ease-in-out infinite alternate 0.2s;
+    animation: textl 4s ease-in-out infinite normal 0.2s;
 }
 #le2 {
     opacity: 1;
 }
 #le3 {
-    animation: textl 4s ease-in-out infinite alternate 0.4s;
+    animation: textl 4s ease-in-out infinite normal 0.4s;
 }
 #le4 {
-    animation: textl 4s ease-in-out infinite alternate 0.6s;
+    animation: textl 4s ease-in-out infinite normal 0.6s;
 }
 #le5 {
-    animation: textl 4s ease-in-out infinite alternate 0.8s;
+    animation: textl 4s ease-in-out infinite normal 0.8s;
 }
 #le6 {
     animation: textl 4s ease-in-out infinite alternate 1s;
