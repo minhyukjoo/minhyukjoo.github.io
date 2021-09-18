@@ -441,22 +441,22 @@ p {
 #le1 {
     padding-left: 0px;
     padding-right: 0px;
-    animation: textn 4s ease-in-out infinite alternate 0.2s;
+    animation: textl 4s ease-in-out infinite alternate 0.2s;
 }
 
 #le2 {
     padding-left: 0px;
     padding-right: 0px;
-    animation: textn 4s ease-in-out infinite alternate 0.4s;
+    animation: textl 4s ease-in-out infinite alternate 0.4s;
 }
 
 #le3 {
     padding-left: 0px;
     padding-right: 0px;
-    animation: textn 4s ease-in-out infinite alternate 0.6s;
+    animation: textl 4s ease-in-out infinite alternate 0.6s;
 }
 
-@keyframes textn {
+@keyframes textl {
   0% {
     opacity: 1;
   }
@@ -473,12 +473,12 @@ p {
     opacity: 1;
   }
 }
-
+/*
 .dynamic-txtl span {
     position: relative;    
 }
 
-/*
+
 .dynamic-txtn li span::after {
     content: "";
     position: absolute;
