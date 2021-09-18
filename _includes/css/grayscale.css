@@ -405,11 +405,11 @@ p {
     }
     
     30% {
-        letter-spacing: 20px;
+        letter-spacing: 5px;
     }
     
     85% {
-        letter-spacing: 3px;
+        letter-spacing: 2px;
     }
 }
 
