@@ -672,7 +672,8 @@ a:focus {
 }
 
 #hihi {
-    font-family: 'Source Code Pro', monospace;
+    /* font-family: 'Source Code Pro', monospace; */
+    font-family: 'Noto Sans KR', sans-serif;
     font-size: 45px;
     letter-spacing: 5px;
     line-height: 1.1;
