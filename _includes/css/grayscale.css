@@ -419,6 +419,12 @@ p {
 
 /*---L part---*/
 
+.wrapper .static-txtl {
+    color: #fff;
+    font-size: 60px;
+    font-weight: 400;
+}
+
 .wrapper .dynamic-txtl {
     padding: 0;
     height: 84px;
