@@ -117,10 +117,10 @@ p {
   100%{ opacity: 0;}
 }
 .fade-in-fade-out {
-   -webkit-animation: fade-inout 2s infinite alternate;
-   -moz-animation: fade-inout 2s infinite alternate;
-   -o-animation: fade-inout 2s infinite alternate;
-    animation: fade-inout 2s infinite alternate;
+   -webkit-animation: fade-inout 1s infinite alternate;
+   -moz-animation: fade-inout 1s infinite alternate;
+   -o-animation: fade-inout 1s infinite alternate;
+    animation: fade-inout 1s infinite alternate;
 }
 
 /*----text ani----*/
