@@ -441,13 +441,20 @@ p {
 #le1 {
     animation: textl 4s ease-in-out infinite alternate 0.2s;
 }
-
 #le2 {
+    opacity: 1;
+}
+#le3 {
     animation: textl 4s ease-in-out infinite alternate 0.4s;
 }
-
-#le3 {
+#le4 {
     animation: textl 4s ease-in-out infinite alternate 0.6s;
+}
+#le5 {
+    animation: textl 4s ease-in-out infinite alternate 0.8s;
+}
+#le6 {
+    animation: textl 4s ease-in-out infinite alternate 1s;
 }
 
 @keyframes textl {
