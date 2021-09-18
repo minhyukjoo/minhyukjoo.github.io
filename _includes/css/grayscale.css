@@ -437,15 +437,15 @@ p {
 }
 
 #le1 {
-    animation: textn 4s ease-in-out infinite alternate 0.3s;
+    animation: textn 4s ease-in-out infinite alternate 0.2s;
 }
 
 #le2 {
-    animation: textn 4s ease-in-out infinite alternate 0.3s;
+    animation: textn 4s ease-in-out infinite alternate 0.4s;
 }
 
 #le3 {
-    animation: textn 4s ease-in-out infinite alternate 0.3s;
+    animation: textn 4s ease-in-out infinite alternate 0.6s;
 }
 
 @keyframes textn {
