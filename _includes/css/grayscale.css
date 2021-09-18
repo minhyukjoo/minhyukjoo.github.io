@@ -98,14 +98,20 @@ p {
 /* top section animation */
 
 @keyframes fade-inout {
-  20%, 100% {
-    opacity: 1;
-  }
   0% {
     opacity: 1;
   }
-  10% {
+  20% {
+    opacity: 1;
+  }
+  40% {
     opacity: 0;
+  }
+  60% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
   }
     /*
   0%{ opacity: 0;}
@@ -113,28 +119,39 @@ p {
 }
 /* support for opera */
 @-o-keyframes fade-inout{
-  20%, 100% {
-    opacity: 1;
-  }
   0% {
     opacity: 1;
   }
-  10% {
+  20% {
+    opacity: 1;
+  }
+  40% {
     opacity: 0;
+  }
+  60% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
   }
 }
 /* support for mozila */
 @-moz-keyframes fade-inout{
-  20%, 100% {
-    opacity: 1;
-  }
   0% {
     opacity: 1;
   }
-  10% {
+  20% {
+    opacity: 1;
+  }
+  40% {
     opacity: 0;
   }
-}
+  60% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
 /* support for safari and chrome */
 @-webkit-keyframes fade-inout{
   0% {
