@@ -434,6 +434,8 @@ p {
     font-weight: 500;
     position: relative;
     top: 0;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 #le1 {
