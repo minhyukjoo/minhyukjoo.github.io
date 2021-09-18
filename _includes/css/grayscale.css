@@ -184,7 +184,11 @@ p {
     animation: fade-inout 5s ease-in-out infinite alternate 0.8s;
 }
 .fade-in-fade-outb {
-    opacity: 0;
+   -webkit-animation: fade-inout 5s ease-in-out infinite alternate 1.1s;
+   -moz-animation: fade-inout 5s ease-in-out infinite alternate 1.1s;
+   -o-animation: fade-inout 5s ease-in-out infinite alternate 1.1s;
+    animation: fade-inout 5s ease-in-out infinite alternate 1.1s;
+    /* opacity: 0; */
 }
 
 .fade-in-fade-out2 {
