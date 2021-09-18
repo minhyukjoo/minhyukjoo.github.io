@@ -683,6 +683,17 @@ a:focus {
     padding-bottom: 0px;
 }
 
+#byebye {
+    /* font-family: 'Source Code Pro', monospace; */
+    font-family: 'Gugi', cursive;
+    font-weight: normal;
+    font-size: 70px;
+    letter-spacing: 2px;
+    line-height: 1.1;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
 @media(min-width:990px) {
     .intro {
         height: 100%;
