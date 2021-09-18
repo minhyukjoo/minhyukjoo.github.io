@@ -443,7 +443,9 @@ p {
     padding-left: 0px;
     padding-right: 0px;
 }
-
+#le1 {
+    animation: textlr 4s ease-in-out infinite alternate 0.2s;
+}
 #le1 {
     animation: textl 4s ease-in-out infinite alternate 0.2s;
 }
@@ -478,6 +480,24 @@ p {
   }
   100% {
     opacity: 1;
+  }
+}
+
+@keyframes textlr {
+  0% {
+    opacity: 0;
+  }
+  20% {
+    opacity: 0;
+  }
+  40% {
+    opacity: 1;
+  }
+  60% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
   }
 }
 /*
