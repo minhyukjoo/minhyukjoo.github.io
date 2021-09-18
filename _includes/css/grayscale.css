@@ -529,8 +529,8 @@ a:focus {
 
 #hihi {
     font-family: 'Source Code Pro', monospace;
-    font-size: 35px;
-    line-height: 1;
+    font-size: 45px;
+    line-height: 0.8;
     padding-top: 0px;
     padding-bottom: 0px;
 }
