@@ -117,22 +117,22 @@ p {
   100%{ opacity: 1;}
 }
 .fade-in-fade-out {
-   -webkit-animation: fade-inout 2s infinite alternate 1.5s;
-   -moz-animation: fade-inout 2s infinite alternate 1.5s;
-   -o-animation: fade-inout 2s infinite alternate 1.5s;
-    animation: fade-inout 2s infinite alternate 1.5s;
+   -webkit-animation: fade-inout 1.5s infinite alternate 2.5s;
+   -moz-animation: fade-inout 1.5s infinite alternate 2.5s;
+   -o-animation: fade-inout 1.5s infinite alternate 2.5s;
+    animation: fade-inout 1.5s infinite alternate 2.5s;
 }
 .fade-in-fade-out2 {
-   -webkit-animation: fade-inout 2s infinite alternate 1.9s;
-   -moz-animation: fade-inout 2s infinite alternate 1.9s;
-   -o-animation: fade-inout 2s infinite alternate 1.9s;
-    animation: fade-inout 2s infinite alternate 1.9s;
+   -webkit-animation: fade-inout 1.5s infinite alternate 2.9s;
+   -moz-animation: fade-inout 1.5s infinite alternate 2.9s;
+   -o-animation: fade-inout 1.5s infinite alternate 2.9s;
+    animation: fade-inout 1.5s infinite alternate 2.9s;
 }
 .fade-in-fade-out3 {
-   -webkit-animation: fade-inout 2s infinite alternate 2.3s;
-   -moz-animation: fade-inout 2s infinite alternate 2.3s;
-   -o-animation: fade-inout 2s infinite alternate 2.3s;
-    animation: fade-inout 2s infinite alternate 2.3s;
+   -webkit-animation: fade-inout 1.5s infinite alternate 3.3s;
+   -moz-animation: fade-inout 1.5s infinite alternate 3.3s;
+   -o-animation: fade-inout 1.5s infinite alternate 3.3s;
+    animation: fade-inout 1.5s infinite alternate 3.3s;
 }
 
 /*----text ani----*/
