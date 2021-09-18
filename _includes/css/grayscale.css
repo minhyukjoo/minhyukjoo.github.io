@@ -434,6 +434,17 @@ p {
     font-weight: 500;
     position: relative;
     top: 0;
+}
+
+#le1 {
+    animation: textn 4s ease-in-out infinite alternate 0.3s;
+}
+
+#le2 {
+    animation: textn 4s ease-in-out infinite alternate 0.3s;
+}
+
+#le3 {
     animation: textn 4s ease-in-out infinite alternate 0.3s;
 }
 
