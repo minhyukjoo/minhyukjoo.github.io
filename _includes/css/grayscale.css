@@ -78,6 +78,7 @@ p {
 }
 
 .copyr {
+    font: 5px;
     opacity: 0.5;
     padding-bottom: 7em;
 }
