@@ -33,7 +33,7 @@ h6 {
 
 p {
     margin: 0 0 25px;
-    font-size: 18px;
+    font-size: 21px;
     line-height: 1.5;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 
@@ -67,12 +67,12 @@ p {
 
 #vidtext {
     padding-top: 0em; 
-    font-size: 17px;
+    font-size: 19px;
 }
 
 #vidtext2 {
     padding-top: 0em; 
-    font-size: 17px;
+    font-size: 19px;
     padding-bottom: 0px;
     margin-bottom: 15px;
 }
