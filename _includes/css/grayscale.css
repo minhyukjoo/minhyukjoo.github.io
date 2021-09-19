@@ -390,6 +390,14 @@ p {
 
 /*---no ani---*/
 
+.wrapper .static-txtq {
+    color: #fff;
+    font-size: 60px;
+    font-weight: 400;
+    padding-right: 6px;
+    animation: textn 3s infinite;
+}
+
 .wrapper .dynamic-txtn {
     padding: 0;
     height: 84px;
