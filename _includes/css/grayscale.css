@@ -716,7 +716,7 @@ a:focus {
     padding-bottom: 0px;
 }
 
-#omit {
+.omit {
     /* font-family: 'Source Code Pro', monospace; */
     font-family: 'Gugi', cursive;
     font-weight: normal;
