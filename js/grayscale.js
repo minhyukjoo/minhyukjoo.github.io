@@ -35,7 +35,7 @@ $("a").mouseup(function(){
     $(this).blur();
 })
 
-/*
+
 
 // Google Maps Scripts
 // When the window has finished loading create our google map below
@@ -183,6 +183,4 @@ function init() {
         map: map,
         icon: image
     });
-    
-    */
 }
