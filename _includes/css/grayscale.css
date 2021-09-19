@@ -78,14 +78,13 @@ p {
 }
 
 .copyr {
-    font-size: 8px;
     opacity: 0.5;
     padding-bottom: 7em;
 }
-/*
+
 .copyt {
-    font: 5px;
-}*/
+    font-size: 8px;
+}
 
 .iframe-container{
   position: relative;
