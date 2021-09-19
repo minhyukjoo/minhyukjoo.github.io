@@ -701,6 +701,7 @@ a:focus {
     font-family: 'Gugi', cursive;
     font-weight: normal;
     font-size: 90px;
+    opacity: 0.5;
     letter-spacing: 2px;
     line-height: 1.1;
     padding-top: 0px;
