@@ -377,6 +377,33 @@ p {
     left: 0;
   }
 }
+/* support for opera */
+@-o-keyframes typing{
+  40%, 60%{
+    left: calc(100% + 5px);
+  }
+  100%{
+    left: 0;
+  }
+}
+/* support for mozila */
+@-moz-keyframes typing{
+  40%, 60%{
+    left: calc(100% + 5px);
+  }
+  100%{
+    left: 0;
+  }
+}
+/* support for safari and chrome */
+@-webkit-keyframes typing{
+  40%, 60%{
+    left: calc(100% + 5px);
+  }
+  100%{
+    left: 0;
+  }
+}
 
 /*---no ani---*/
 
