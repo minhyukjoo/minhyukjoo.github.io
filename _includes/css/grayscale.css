@@ -232,6 +232,41 @@ p {
 
 
 /*----text ani----*/
+@keyframes typing {
+  40%, 60%{
+    left: calc(100% + 5px);
+  }
+  100%{
+    left: 0;
+  }
+}
+/* support for opera */
+@-o-keyframes typing{
+  40%, 60%{
+    left: calc(100% + 5px);
+  }
+  100%{
+    left: 0;
+  }
+}
+/* support for mozila */
+@-moz-keyframes typing{
+  40%, 60%{
+    left: calc(100% + 5px);
+  }
+  100%{
+    left: 0;
+  }
+}
+/* support for safari and chrome */
+@-webkit-keyframes typing{
+  40%, 60%{
+    left: calc(100% + 5px);
+  }
+  100%{
+    left: 0;
+  }
+}
 
 .textani {
     justify-content: center;
@@ -291,6 +326,9 @@ p {
     width: 100%;
     border-left: 2px solid #fff;
     background: black;
+   -webkit-animation: typing 3s steps(8) infinite;
+   -moz-animation: typing 3s steps(8) infinite;
+   -o-animation: typing 3s steps(8) infinite;
     animation: typing 3s steps(8) infinite;
 }
 
@@ -325,6 +363,9 @@ p {
     width: 100%;
     border-left: 2px solid #fff;
     background: black;
+   -webkit-animation: typing 2s steps(3) infinite;
+   -moz-animation: typing 2s steps(3) infinite;
+   -o-animation: typing 2s steps(3) infinite;
     animation: typing 2s steps(3) infinite;
 }
 
@@ -366,43 +407,10 @@ p {
     width: 100%;
     border-left: 2px solid #fff;
     background: black;
+   -webkit-animation: typing 2s steps(4) infinite;
+   -moz-animation: typing 2s steps(4) infinite;
+   -o-animation: typing 2s steps(4) infinite;
     animation: typing 2s steps(4) infinite;
-}
-
-@keyframes typing {
-  40%, 60%{
-    left: calc(100% + 5px);
-  }
-  100%{
-    left: 0;
-  }
-}
-/* support for opera */
-@-o-keyframes typing{
-  40%, 60%{
-    left: calc(100% + 5px);
-  }
-  100%{
-    left: 0;
-  }
-}
-/* support for mozila */
-@-moz-keyframes typing{
-  40%, 60%{
-    left: calc(100% + 5px);
-  }
-  100%{
-    left: 0;
-  }
-}
-/* support for safari and chrome */
-@-webkit-keyframes typing{
-  40%, 60%{
-    left: calc(100% + 5px);
-  }
-  100%{
-    left: 0;
-  }
 }
 
 /*---no ani---*/
